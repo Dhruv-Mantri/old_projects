@@ -1,0 +1,1 @@
+These are all the projects I managed to save from my old laptop before it stopped working. Most of these projects haven't been updated for 2 years, and thus many APIs or modules have been updated/deleted. These projects used to all work perfectly, but now they're not as functional as they used to be. Use these as a reference for the type of work I was doing. 
